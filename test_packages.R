@@ -2,10 +2,6 @@
 ##test_packages.R
 
 library(DBI)
-library(tidyverse)
+library(tidyverse) # Load many packages 
 library(RPostgres)
-
-install.packages("tidyverse")
-
-library(tidyverse)
 
